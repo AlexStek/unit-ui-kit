@@ -4,11 +4,10 @@
       <img src="/logo.svg" class="logo" alt="Vite logo" />
     </a>
   </div>
-  <HelloWorld msg="Unit's ui-kit package" />
+  <h1>Unit's ui-kit package</h1>
 </template>
 
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <style scoped>
