@@ -51,6 +51,13 @@
       disabled
     />
   </div>
+  <h2 class="font-bold mt-4 mb-1">With icon</h2>
+  <UButton
+    label="Projects"
+    class="mr-2"
+  >
+    <img class="icon mr-3" src="/icons/menu/projects.svg" alt="">
+  </UButton>
 </template>
 
 <script setup lang="ts">
