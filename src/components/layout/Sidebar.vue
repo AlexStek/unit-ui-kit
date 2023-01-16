@@ -45,7 +45,7 @@ const links = ref([
 ]) as Ref<TSideBarItem[]>;
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 .sidebar {
   left: 0;
   top: 62px;
