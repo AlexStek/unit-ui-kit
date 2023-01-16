@@ -1,4 +1,6 @@
 # Folders structure and namings
+## names
+   if component will be public it should start with 'U' (Unit), for example 'UButton'
 ## views
    The complete pages
 

@@ -1,3 +1,8 @@
+
 <template>
-  <h1>Buttons</h1>
+  <UButton />
 </template>
+
+<script setup lang="ts">
+import { UButton } from "@/components";
+</script>

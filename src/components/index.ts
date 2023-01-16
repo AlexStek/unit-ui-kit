@@ -1,0 +1,1 @@
+export { default as UButton } from '@/components/buttons/UButton.vue';
