@@ -21,6 +21,9 @@
 
   --primary-color: var(--accent);
   --primary-color-hover: var(--accent-hover);
+  --secondary-color: #EDEFF5;
+  --secondary-color-hover: #EDEFF5;
+  /* colors end */
 
   background-color: var(--background);
   color: var(--black);
