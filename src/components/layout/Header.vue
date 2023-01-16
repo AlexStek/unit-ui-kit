@@ -4,7 +4,7 @@
   </header>
 </template>
   
-<style scoped>
+<style lang="postcss" scoped>
 .header {
   font-weight: bold;
   padding: 0 20px;
