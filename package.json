@@ -1,7 +1,15 @@
 {
   "name": "unit-ui-kit",
-  "private": true,
-  "version": "0.0.0",
+  "files": ["dist"],
+  "main": "./dist/unit-ui-kit.umd.js",
+  "module": "./dist/unit-ui-kit.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/unit-ui-kit.es.js",
+      "require": "./dist/unit-ui-kit.umd.js"
+    }
+  },
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
